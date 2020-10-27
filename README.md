@@ -13,7 +13,7 @@ Programmet visar resultatet i decimal form.
 Exempel:  
 3 foot in yd => 1  
 25 th in Inch => 0,025  
-#Krav 
+# Krav 
 * Koden skall skrivas i ett CLI-projekt  
 * Inmatningssträngen skall valideras  
 * Felhantering skall implementeras på lämpligt, användarvänligt sätt. Dock behöver inga loggfiler eller dylikt  skapas.  
